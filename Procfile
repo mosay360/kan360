@@ -1,0 +1,1 @@
+web: gunicorn kan360.wsgi --log-file -
